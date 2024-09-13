@@ -100,8 +100,8 @@ Use these files to complete the implementation:
 - `src/components/CartItem/index.css`
 - `src/components/CartSummary/index.js`
 - `src/components/CartSummary/index.css`
-</details>
--->
+</details> -->
+
 ### Quick Tips
 
 <details>
