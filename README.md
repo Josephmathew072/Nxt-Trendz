@@ -28,7 +28,7 @@ In this project, let's build a **Nxt Trendz - Cart Features** by applying the co
 - Download dependencies by running `npm install`
 - Start up the app using `npm start`
 </details>
-
+<!--
 ### Completion Instructions
 
 <details>
@@ -101,7 +101,7 @@ Use these files to complete the implementation:
 - `src/components/CartSummary/index.js`
 - `src/components/CartSummary/index.css`
 </details>
-
+-->
 ### Quick Tips
 
 <details>
